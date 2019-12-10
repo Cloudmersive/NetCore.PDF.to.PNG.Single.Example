@@ -40,6 +40,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Cloudmersive.APIClient.NETCore.DocumentAndDataConvert": {
+              "target": "Package",
+              "version": "[1.5.6, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
