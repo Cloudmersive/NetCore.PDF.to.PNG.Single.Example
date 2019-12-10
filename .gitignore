@@ -21,3 +21,4 @@ NetCore.PDF.to.PNG.Single.Example/NetCore.PDF.to.PNG.Single.Example/bin/Debug/ne
 NetCore.PDF.to.PNG.Single.Example/NetCore.PDF.to.PNG.Single.Example/bin/Debug/netcoreapp3.1/JsonSubTypes.dll
 NetCore.PDF.to.PNG.Single.Example/NetCore.PDF.to.PNG.Single.Example/bin/Debug/netcoreapp3.1/Cloudmersive.APIClient.NETCore.DocumentAndDataConvert.dll
 NetCore.PDF.to.PNG.Single.Example/.vs/NetCore.PDF.to.PNG.Single.Example/DesignTimeBuild/.dtbcache
+*.dll

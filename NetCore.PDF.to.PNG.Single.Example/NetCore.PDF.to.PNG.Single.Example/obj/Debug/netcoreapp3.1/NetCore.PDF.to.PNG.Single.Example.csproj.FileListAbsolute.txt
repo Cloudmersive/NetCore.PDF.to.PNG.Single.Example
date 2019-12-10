@@ -1,7 +1,4 @@
 C:\Users\braga\Documents\NetCore.PDF.to.PNG.Single.Example\NetCore.PDF.to.PNG.Single.Example\NetCore.PDF.to.PNG.Single.Example\bin\Debug\netcoreapp3.1\NetCore.PDF.to.PNG.Single.Example.exe
-C:\Users\braga\Documents\NetCore.PDF.to.PNG.Single.Example\NetCore.PDF.to.PNG.Single.Example\NetCore.PDF.to.PNG.Single.Example\obj\Debug\netcoreapp3.1\NetCore.PDF.to.PNG.Single.Example.csprojAssemblyReference.cache
-C:\Users\braga\Documents\NetCore.PDF.to.PNG.Single.Example\NetCore.PDF.to.PNG.Single.Example\NetCore.PDF.to.PNG.Single.Example\obj\Debug\netcoreapp3.1\NetCore.PDF.to.PNG.Single.Example.AssemblyInfoInputs.cache
-C:\Users\braga\Documents\NetCore.PDF.to.PNG.Single.Example\NetCore.PDF.to.PNG.Single.Example\NetCore.PDF.to.PNG.Single.Example\obj\Debug\netcoreapp3.1\NetCore.PDF.to.PNG.Single.Example.AssemblyInfo.cs
 C:\Users\braga\Documents\NetCore.PDF.to.PNG.Single.Example\NetCore.PDF.to.PNG.Single.Example\NetCore.PDF.to.PNG.Single.Example\bin\Debug\netcoreapp3.1\NetCore.PDF.to.PNG.Single.Example.deps.json
 C:\Users\braga\Documents\NetCore.PDF.to.PNG.Single.Example\NetCore.PDF.to.PNG.Single.Example\NetCore.PDF.to.PNG.Single.Example\bin\Debug\netcoreapp3.1\NetCore.PDF.to.PNG.Single.Example.runtimeconfig.json
 C:\Users\braga\Documents\NetCore.PDF.to.PNG.Single.Example\NetCore.PDF.to.PNG.Single.Example\NetCore.PDF.to.PNG.Single.Example\bin\Debug\netcoreapp3.1\NetCore.PDF.to.PNG.Single.Example.runtimeconfig.dev.json
@@ -11,6 +8,10 @@ C:\Users\braga\Documents\NetCore.PDF.to.PNG.Single.Example\NetCore.PDF.to.PNG.Si
 C:\Users\braga\Documents\NetCore.PDF.to.PNG.Single.Example\NetCore.PDF.to.PNG.Single.Example\NetCore.PDF.to.PNG.Single.Example\bin\Debug\netcoreapp3.1\JsonSubTypes.dll
 C:\Users\braga\Documents\NetCore.PDF.to.PNG.Single.Example\NetCore.PDF.to.PNG.Single.Example\NetCore.PDF.to.PNG.Single.Example\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\braga\Documents\NetCore.PDF.to.PNG.Single.Example\NetCore.PDF.to.PNG.Single.Example\NetCore.PDF.to.PNG.Single.Example\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\braga\Documents\NetCore.PDF.to.PNG.Single.Example\NetCore.PDF.to.PNG.Single.Example\NetCore.PDF.to.PNG.Single.Example\obj\Debug\netcoreapp3.1\NetCore.PDF.to.PNG.Single.Example.AssemblyInfoInputs.cache
+C:\Users\braga\Documents\NetCore.PDF.to.PNG.Single.Example\NetCore.PDF.to.PNG.Single.Example\NetCore.PDF.to.PNG.Single.Example\obj\Debug\netcoreapp3.1\NetCore.PDF.to.PNG.Single.Example.AssemblyInfo.cs
 C:\Users\braga\Documents\NetCore.PDF.to.PNG.Single.Example\NetCore.PDF.to.PNG.Single.Example\NetCore.PDF.to.PNG.Single.Example\obj\Debug\netcoreapp3.1\NetCore.PDF.to.PNG.Single.Example.csproj.CopyComplete
 C:\Users\braga\Documents\NetCore.PDF.to.PNG.Single.Example\NetCore.PDF.to.PNG.Single.Example\NetCore.PDF.to.PNG.Single.Example\obj\Debug\netcoreapp3.1\NetCore.PDF.to.PNG.Single.Example.dll
 C:\Users\braga\Documents\NetCore.PDF.to.PNG.Single.Example\NetCore.PDF.to.PNG.Single.Example\NetCore.PDF.to.PNG.Single.Example\obj\Debug\netcoreapp3.1\NetCore.PDF.to.PNG.Single.Example.pdb
+C:\Users\braga\Documents\NetCore.PDF.to.PNG.Single.Example\NetCore.PDF.to.PNG.Single.Example\NetCore.PDF.to.PNG.Single.Example\bin\Debug\netcoreapp3.1\Cloudmersive.APIClient.NETCore.Barcode.dll
+C:\Users\braga\Documents\NetCore.PDF.to.PNG.Single.Example\NetCore.PDF.to.PNG.Single.Example\NetCore.PDF.to.PNG.Single.Example\obj\Debug\netcoreapp3.1\NetCore.PDF.to.PNG.Single.Example.csprojAssemblyReference.cache
