@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCore.PDF.to.PNG.Single.Example", "NetCore.PDF.to.PNG.Single.Example\NetCore.PDF.to.PNG.Single.Example.csproj", "{07A9C1C1-4AA8-4ABF-A273-D6CD0EDC6032}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07A9C1C1-4AA8-4ABF-A273-D6CD0EDC6032}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07A9C1C1-4AA8-4ABF-A273-D6CD0EDC6032}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07A9C1C1-4AA8-4ABF-A273-D6CD0EDC6032}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07A9C1C1-4AA8-4ABF-A273-D6CD0EDC6032}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C5323C0-E4F0-4BDF-9522-D7B032E176C4}
+	EndGlobalSection
+EndGlobal
