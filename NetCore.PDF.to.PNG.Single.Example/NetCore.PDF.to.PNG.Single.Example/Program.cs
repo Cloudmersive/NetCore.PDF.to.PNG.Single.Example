@@ -1,6 +1,7 @@
 ﻿using Cloudmersive.APIClient.NETCore.DocumentAndDataConvert.Api;
 using Cloudmersive.APIClient.NETCore.DocumentAndDataConvert.Client;
 using System;
+using System.IO;
 
 namespace NetCore.PDF.to.PNG.Single.Example
 {
@@ -16,9 +17,11 @@ namespace NetCore.PDF.to.PNG.Single.Example
 
 
             var apiInstance = new ConvertDocumentApi();
-            var inputFile = new System.IO.FileStream("C:\\temp\\inputfile", System.IO.FileMode.Open); // System.IO.Stream | Input file to perform the operation on.
+            var inputFile = new System.IO.FileStream("C:\\temp\\output.pdf", System.IO.FileMode.Open); // System.IO.Stream | Input file to perform the operation on.
 
             byte[] result = apiInstance.ConvertDocumentPdfToPngSingle(inputFile);
+
+            File.WriteAllBytes("C:\\temp\\output.png", result);
 
             Console.WriteLine("Done.");
         }
