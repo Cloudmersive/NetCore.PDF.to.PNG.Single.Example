@@ -12,7 +12,7 @@ namespace NetCore.PDF.to.PNG.Single.Example
             Console.WriteLine("Starting...");
 
             // Configure API key authorization: Apikey
-            Configuration.Default.AddApiKey("Apikey", "YOUR_API_KEY");
+            Configuration.Default.AddApiKey("Apikey", "APIKEYHERE");
 
 
 
